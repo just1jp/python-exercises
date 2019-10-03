@@ -1,4 +1,4 @@
-#A Few Common Python Coding Challenges
+# A Few Common Python Coding Challenges
 
 This repo contains solutions to four python coding problems including:
 
